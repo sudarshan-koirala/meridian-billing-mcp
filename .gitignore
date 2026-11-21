@@ -1,0 +1,12 @@
+# Graphify build output. Build it yourself in Step 1
+graphify-out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Recording notes
+Graphify-MCP-Demo-Prompts.txt
+
+.DS_Store
